@@ -47,7 +47,7 @@ If you'd like to contribute to this project and help resolve the backend issues,
 
 ## Contact
 
-If you have any questions or would like to discuss this project, please feel free to reach out to us at [adewaleezekiel43@ggmial.com].
+If you have any questions or would like to discuss this project, please feel free to reach out to us at [adewaleezekiel43@gmail.com].
 
 ## Acknowledgments
 
